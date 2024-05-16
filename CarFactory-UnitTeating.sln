@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarFactoryLibrary-tests", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarFactoryLibrary", "..\..\..\..\Downloads\Ism_UnitTesting-master\Ism_UnitTesting-master\CarFactoryLibrary\CarFactoryLibrary.csproj", "{38D26DD3-4871-4A1C-A7B7-122B4FE0ED52}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarFactoryAPI", "..\..\..\..\Downloads\Ism_UnitTesting-master\Ism_UnitTesting-master\CarFactoryAPI\CarFactoryAPI.csproj", "{6E850E6D-7E0E-4DED-A90A-80DF1714ECDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFactoryAPI-tests", "CarFactoryAPI-tests\CarFactoryAPI-tests.csproj", "{409DF9A8-847C-425F-8D18-716C51CC41D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{38D26DD3-4871-4A1C-A7B7-122B4FE0ED52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38D26DD3-4871-4A1C-A7B7-122B4FE0ED52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38D26DD3-4871-4A1C-A7B7-122B4FE0ED52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E850E6D-7E0E-4DED-A90A-80DF1714ECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E850E6D-7E0E-4DED-A90A-80DF1714ECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E850E6D-7E0E-4DED-A90A-80DF1714ECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E850E6D-7E0E-4DED-A90A-80DF1714ECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409DF9A8-847C-425F-8D18-716C51CC41D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409DF9A8-847C-425F-8D18-716C51CC41D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409DF9A8-847C-425F-8D18-716C51CC41D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409DF9A8-847C-425F-8D18-716C51CC41D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
